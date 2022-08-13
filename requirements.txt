@@ -162,7 +162,6 @@ pygame==2.1.2
 Pygments==2.11.1
 PyJWT==1.7.1
 pymongo==4.1.1
-pyodbc==4.0.32
 PyOpenGL==3.1.6
 pyOpenSSL==22.0.0
 pyparsing==3.0.6
